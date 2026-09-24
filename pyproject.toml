@@ -1,0 +1,20 @@
+[project]
+name = "buddy"
+version = "0.1.0"
+description = "A local AI chatbot web app powered by Ollama and Gradio"
+readme = "README.md"
+authors = [
+    { name = "TabishAli889", email = "tabishaliwa302@example.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "gradio>=6.28.0",
+    "ollama>=0.6.2",
+]
+
+[project.scripts]
+buddy = "buddy.app:main"
+
+[build-system]
+requires = ["uv_build>=0.12.13,<0.13.0"]
+build-backend = "uv_build"
