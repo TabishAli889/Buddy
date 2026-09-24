@@ -1,4 +1,4 @@
-<img width="1280" height="690" alt="Buddy-gif" src="https://github.com/user-attachments/assets/07400cd5-b785-4d82-8112-f1b78c6f3701" />
+
 
 ================================================
 FILE: README.md
